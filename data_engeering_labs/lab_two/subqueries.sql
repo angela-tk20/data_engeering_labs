@@ -5,7 +5,7 @@ FROM
     sales
 WHERE
     year = 2025
-    AND month = 3  -- Your most recent month of data
+    AND month = 3
 GROUP BY
     product_id
 ORDER BY
