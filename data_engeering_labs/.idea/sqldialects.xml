@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/lab_five/inventory_trigger.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/lab_five/stored_procedure.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/lab_three/complex_analysis.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/lab_three/lag_an_lead.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/lab_three/partitioning.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/lab_three/running_totals.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/lab_three/windowFunctions.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/lab_two/Indexing.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/lab_two/case_statements.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/lab_two/join_operations.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/lab_two/subqueries.sql" dialect="MySQL" />
+  </component>
+</project>

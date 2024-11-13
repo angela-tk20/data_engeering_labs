@@ -1,0 +1,101 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,1200
+2,Smartphone,Electronics,800
+3,Tablet,Electronics,450
+4,Wireless Mouse,Electronics,25
+5,Keyboard,Electronics,50
+6,Smartwatch,Electronics,200
+7,Camera,Electronics,650
+8,Headphones,Electronics,150
+9,Charger,Electronics,30
+10,Drone,Electronics,1200
+11,Office Chair,Furniture,150
+12,Desk,Furniture,300
+13,Lamp,Furniture,50
+14,Coffee Table,Furniture,100
+15,Sofa,Furniture,500
+16,Bookshelf,Furniture,120
+17,Air Conditioner,Home Appliances,400
+18,Washing Machine,Home Appliances,700
+19,Microwave,Home Appliances,150
+20,Refrigerator,Home Appliances,900
+21,Blender,Home Appliances,80
+22,Fan,Home Appliances,30
+23,Vacuum Cleaner,Home Appliances,180
+24,Iron,Home Appliances,40
+25,Oven,Home Appliances,250
+26,Spices,Food,5
+27,Sugar,Food,3
+28,Rice,Food,15
+29,Flour,Food,3
+30,Tea,Food,4
+31,Coffee,Food,4
+32,Snacks,Food,2
+33,Juice,Food,2
+34,Soda,Food,1
+35,Chocolate,Food,2
+36,Shampoo,Beauty,8
+37,Conditioner,Beauty,8
+38,Face Cream,Beauty,15
+39,Perfume,Beauty,25
+40,Toothpaste,Beauty,3
+41,Body Lotion,Beauty,5
+42,Hair Dryer,Beauty,40
+43,Sunscreen,Beauty,12
+44,Makeup Kit,Beauty,30
+45,Shaving Kit,Beauty,20
+46,Men's Jacket,Clothing,60
+47,Women's Jacket,Clothing,65
+48,Men's Shirt,Clothing,25
+49,Women's Shirt,Clothing,28
+50,Jeans,Clothing,40
+51,Men's Shoes,Clothing,50
+52,Women's Shoes,Clothing,55
+53,Men's T-shirt,Clothing,15
+54,Women's T-shirt,Clothing,18
+55,Men's Sweater,Clothing,30
+56,Women's Sweater,Clothing,35
+57,Men's Pants,Clothing,45
+58,Women's Pants,Clothing,50
+59,Swimwear,Clothing,20
+60,Men's Shorts,Clothing,22
+61,Women's Shorts,Clothing,24
+62,Watch,Accessories,100
+63,Sunglasses,Accessories,30
+64,Wallet,Accessories,20
+65,Belt,Accessories,15
+66,Scarf,Accessories,10
+67,Hat,Accessories,12
+68,Bags,Accessories,40
+69,Backpack,Accessories,35
+70,Travel Case,Accessories,50
+71,Shoes,Accessories,60
+72,Necklace,Jewelry,80
+73,Earrings,Jewelry,50
+74,Bracelet,Jewelry,40
+75,Ring,Jewelry,120
+76,Anklet,Jewelry,15
+77,Jewelry Set,Jewelry,200
+78,Bracelet Set,Jewelry,150
+79,Chains,Jewelry,60
+80,Stud Earrings,Jewelry,20
+81,Smart Home Device,Electronics,150
+82,LED Lights,Home Appliances,40
+83,Heater,Home Appliances,100
+84,Dehumidifier,Home Appliances,120
+85,Water Filter,Home Appliances,80
+86,Electric Grill,Home Appliances,60
+87,Toaster,Home Appliances,35
+88,Space Heater,Home Appliances,95
+89,Electric Blanket,Home Appliances,45
+90,Heated Mattress Pad,Home Appliances,50
+91,Air Purifier,Home Appliances,120
+92,Coffee Maker,Home Appliances,70
+93,Popcorn Maker,Home Appliances,40
+94,Electric Kettle,Home Appliances,25
+95,Electric Coffee Grinder,Home Appliances,40
+96,Food Processor,Home Appliances,80
+97,Juicer,Home Appliances,50
+98,Tea Kettle,Home Appliances,30
+99,Water Dispenser,Home Appliances,100
+100,Electric Skillet,Home Appliances,60
