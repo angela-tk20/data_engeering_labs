@@ -1,0 +1,27 @@
+PSEUDOCODE
+1. Set the transaction isolation level to SERIALIZABLE
+   - Ensures that the transaction is completely isolated from others.
+
+2. Start the transaction
+
+3.Create tables for Orders(OrderID, CustomerID, OrderDate), Orderdetails(OrderID, ProductID, Quantity), Products(Productid,ProductName,Quantity)
+
+4.Insert the data in the Techcorp pdf into all the tables
+
+5. Insert a new order into the Orders table
+   (OrderID, CustomerID,OrderDate)
+
+6. Insert order details into the OrderDetails table
+   (OrderID, ProductID, Quantity)
+
+7. Check stock availability for the product:
+   - If StockQuantity >= Quantity:
+       a. Update the Products table to reduce StockQuantity by the order amount.
+   - Else:
+       a. Rollback the transaction (cancel all changes).
+       b. Exit the transaction.
+
+8. If all steps are successful, commit the transaction
+   - Save changes permanently.
+
+9. End
